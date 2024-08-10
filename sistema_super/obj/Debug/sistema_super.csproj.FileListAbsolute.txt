@@ -1,0 +1,63 @@
+c:\users\william may\documents\visual studio 2013\Projects\sistema_super\sistema_super\bin\Debug\sistema_super.exe.config
+c:\users\william may\documents\visual studio 2013\Projects\sistema_super\sistema_super\bin\Debug\sistema_super.exe
+c:\users\william may\documents\visual studio 2013\Projects\sistema_super\sistema_super\bin\Debug\sistema_super.pdb
+c:\users\william may\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.csprojResolveAssemblyReference.cache
+c:\users\william may\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.Form1.resources
+c:\users\william may\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.Properties.Resources.resources
+c:\users\william may\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.csproj.GenerateResource.Cache
+c:\users\william may\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.exe
+c:\users\william may\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.pdb
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.Clientes.resources
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.productos.resources
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.categorias.resources
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.Detalles_de_ventas.resources
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.proveedores.resources
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.ventas.resources
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.Eliminar.resources
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.Búsqueda.resources
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.Registro.resources
+C:\Users\William May\documents\visual studio 2013\Projects\sistema_super\sistema_super\obj\Debug\sistema_super.login.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\bin\Debug\sistema_super.exe.config
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.exe
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.pdb
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\bin\Debug\sistema_super.exe
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\bin\Debug\sistema_super.pdb
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.csprojResolveAssemblyReference.cache
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.login.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.Registro.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.Búsqueda.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.categorias.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.Clientes.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.Detalles_de_ventas.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.Eliminar.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.Form1.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.productos.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.Properties.Resources.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.proveedores.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.ventas.resources
+C:\Users\Wiliam\Desktop\sistema_super\sistema_super\obj\Debug\sistema_super.csproj.GenerateResource.Cache
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.csproj.AssemblyReference.cache
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.login.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.Registro.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.Búsqueda.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.categorias.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.Clientes.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.Detalles_de_ventas.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.Eliminar.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.Form1.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.productos.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.Properties.Resources.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.proveedores.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.ventas.resources
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.csproj.GenerateResource.cache
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.exe
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_super.pdb
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\bin\Debug\sistema_super.exe.config
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\bin\Debug\sistema_super.exe
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\bin\Debug\sistema_super.pdb
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\bin\Debug\System.Memory.dll
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\bin\Debug\System.Buffers.dll
+C:\Users\Abel\Desktop\Nueva carpeta (4)\CRUD\sistema_super\sistema_super\obj\Debug\sistema_.DF2EA33C.Up2Date
